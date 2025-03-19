@@ -9,11 +9,10 @@ sites:
     maxResponseTime: 6000
     status: 200
     checkCertificate: true
- - name:GOOGLE 
+  - name: GOOGLE
     url: https://www.google.com/
- - name: Wikipedia
+  - name: Wikipedia
     url: https://www.wikipedia.org/
-
 
 alerts:
   timeout: 60  # Alert if the site is down for more than 60 minutes
