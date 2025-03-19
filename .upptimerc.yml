@@ -3,14 +3,25 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Srinath Upptime
+    url: https://srinath2125.github.io
+    method: HEAD
+    maxResponseTime: 6000
+    status: 200
+    checkCertificate: true 
+
   - name: Google
     url: https://www.google.com
+
   - name: Wikipedia
     url: https://en.wikipedia.org
+
   - name: Hacker News
     url: https://news.ycombinator.com
+
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+
   - name: IPv6 test
     url: forwardemail.net
     port: 80
