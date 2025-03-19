@@ -4,7 +4,7 @@ repo: upptime
 
 sites:
   - name: Srinath Upptime
-    url: https://srinath2125.github.io
+    url: https://invalid.url
     method: HEAD
     maxResponseTime: 6000
     status: 200
@@ -18,6 +18,12 @@ sites:
     port: 80
     check: tcp-ping
     ipv6: true
+
+alerts:
+  timeout: 60  # Alert if the site is down for more than 60 minutes
+  commits: true  # Creates a commit in the repository when status changes
+  issues: true  # Creates a GitHub issue when a site is down
+  email: true  # Enables email notifications for issue creation      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
