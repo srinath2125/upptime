@@ -1,0 +1,11 @@
+{
+  "name": "upptime",
+  "version": "1.0.0",
+  "description": "Upptime monitoring setup",
+  "scripts": {
+    "update": "npx upptime update",
+    "status": "npx upptime status",
+    "sites": "npx upptime sites"
+  },
+  "dependencies": {}
+}
