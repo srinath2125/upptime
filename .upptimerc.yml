@@ -5,6 +5,8 @@ repo: upptime
 sites:
   - name: Srinath Upptime
     url: https://srinath2125.github.io/upptime/
+    status-website:
+    baseUrl: /upptime
     method: HEAD
     maxResponseTime: 6000
     status: 200
