@@ -4,7 +4,7 @@ repo: upptime
 
 sites:
   - name: Srinath Upptime
-    url: https://invalid.111
+    url: https://srinath2125.github.io/upptime/
     method: HEAD
     maxResponseTime: 6000
     status: 200
