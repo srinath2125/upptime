@@ -22,8 +22,8 @@ sites:
 alerts:
   timeout: 60  # Alert if the site is down for more than 60 minutes
   commits: true  # Creates a commit in the repository when status changes
-  issues:   # Creates a GitHub issue when a site is down
-  email:   # Enables email notifications for issue creation      
+  issues: true  # Creates a GitHub issue when a site is down
+  email: true  # Enables email notifications for issue creation      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
