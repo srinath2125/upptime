@@ -9,11 +9,9 @@ sites:
     maxResponseTime: 6000
     status: 200
     checkCertificate: true
-  - name: GOOGLE
-    url: https://www.google.com/
-  - name: Wikipedia
-    url: https://www.wikipedia.org/
-
+  - name: navaditi 
+    url: https://www.navadhiti.com/
+  
 alerts:
   timeout: 60  # Alert if the site is down for more than 60 minutes
   commits: true  # Creates a commit in the repository when status changes
