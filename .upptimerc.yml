@@ -22,6 +22,7 @@ sites:
 alerts:
   timeout: 60  # Alert if the site is down for more than 60 minutes
   commits: true  # Creates a commit in the repository when status changes
+  notify:
   issues: true  # Creates a GitHub issue when a site is down
   email: true  # Enables email notifications for issue creation      
 
