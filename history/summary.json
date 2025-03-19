@@ -1,8 +1,8 @@
 [
   {
     "name": "Srinath Upptime",
-    "url": "https://invalid",
-    "icon": "https://icons.duckduckgo.com/ip3/invalid.ico",
+    "url": "https://invalid.111",
+    "icon": "https://icons.duckduckgo.com/ip3/invalid.111.ico",
     "slug": "srinath-upptime",
     "status": "down",
     "uptime": "100.00%",
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 116,
-    "timeWeek": 106,
+    "timeDay": 112,
+    "timeWeek": 105,
     "timeMonth": 108,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 86,
-    "timeWeek": 131,
-    "timeMonth": 173,
+    "timeDay": 103,
+    "timeWeek": 138,
+    "timeMonth": 175,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
