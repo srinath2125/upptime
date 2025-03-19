@@ -1,6 +1,5 @@
-# Change these first
-owner: upptime # Your GitHub organization or username,where this repository lives
-repo: upptime # The name of this repository
+owner: srinath2125
+repo: upptime
 
 sites:
   - name: Srinath Upptime
@@ -8,24 +7,15 @@ sites:
     method: HEAD
     maxResponseTime: 6000
     status: 200
-    checkCertificate: true 
-
+    checkCertificate: true
   - name: Google
     url: https://www.google.com
-
   - name: Wikipedia
     url: https://en.wikipedia.org
-
-  - name: Hacker News
-    url: https://news.ycombinator.com
-
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
   - name: IPv6 test
     url: forwardemail.net
     port: 80
-    check: "tcp-ping"
+    check: tcp-ping
     ipv6: true
 
 status-website:
