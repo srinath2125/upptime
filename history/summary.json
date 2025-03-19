@@ -16,5 +16,41 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "GOOGLE",
+    "url": "https://www.google.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 106,
+    "timeDay": 109,
+    "timeWeek": 104,
+    "timeMonth": 107,
+    "timeYear": 110,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Wikipedia",
+    "url": "https://www.wikipedia.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.wikipedia.org.ico",
+    "slug": "wikipedia",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 221,
+    "timeDay": 117,
+    "timeWeek": 141,
+    "timeMonth": 173,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   }
 ]
